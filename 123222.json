@@ -1,0 +1,22 @@
+{
+  "priority_HarmonyLoadMod": {
+    "__type": "int",
+    "value": 0
+  },
+  "priority_Newbe.BetterModLoader": {
+    "__type": "int",
+    "value": 1
+  },
+  "priority_ModConfig": {
+    "__type": "int",
+    "value": 2
+  },
+  "priority_CustomHotkey": {
+    "__type": "int",
+    "value": 3
+  },
+  "priority_qingye": {
+    "__type": "int",
+    "value": 4
+  }
+}

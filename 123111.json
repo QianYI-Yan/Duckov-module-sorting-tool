@@ -1,0 +1,26 @@
+{
+  "AllowLoadingMod": {
+    "__type": "bool",
+    "value": true
+  },
+  "ModActive_HarmonyLoadMod": {
+    "__type": "bool",
+    "value": true
+  },
+  "ModActive_Newbe.BetterModLoader": {
+    "__type": "bool",
+    "value": true
+  },
+  "ModActive_ModConfig": {
+    "__type": "bool",
+    "value": true
+  },
+  "ModActive_CustomHotkey": {
+    "__type": "bool",
+    "value": true
+  },
+  "ModActive_qingye": {
+    "__type": "bool",
+    "value": true
+  }
+}

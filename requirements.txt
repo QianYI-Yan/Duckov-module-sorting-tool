@@ -1,0 +1,4 @@
+pywebview>=3.6
+requests>=2.25.0
+send2trash>=1.8.0
+pathlib2>=2.3.0; python_version < '3.4'
